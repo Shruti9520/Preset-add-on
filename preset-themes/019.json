@@ -1,0 +1,47 @@
+{
+  "title": "019",
+  "colors": {
+    "toolbar": {
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 0.64
+    },
+    "toolbar_text": {
+      "r": 0,
+      "g": 187,
+      "b": 255
+    },
+    "accentcolor": {
+      "r": 221,
+      "g": 249,
+      "b": 118
+    },
+    "textcolor": {
+      "r": 0,
+      "g": 187,
+      "b": 255
+    },
+    "toolbar_field": {
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 0.36
+    },
+    "toolbar_field_text": {
+      "r": 0,
+      "g": 183,
+      "b": 255
+    },
+    "tab_line": {
+      "r": 0,
+      "g": 183,
+      "b": 255
+    }
+  },
+  "images": {
+    "additional_backgrounds": [
+      "./bg-027.svg"
+    ]
+  }
+}
